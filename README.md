@@ -2,10 +2,10 @@
 <p align="center"><img src="UB_logo.png" alt="University at Buffalo Logo" width="200"/></p>
 <div align="center"><hr style="width:100%; border: 2px solid #005bbb; background-color: #005bbb"></div>
 
-# Production and Operations Management (MGO 302)
+# Supply Chain Analytics (MGO 636)
 
 ## 📑 Table of Contents
-- [Production and Operations Management (MGO 636)](#production-and-operations-management-mgo-302)
+- [Supply Chain Analytics (MGO 636)](#supply-chain-analytics-mgo-636)
   - [📑 Table of Contents](#-table-of-contents)
   - [👨‍🏫 Instructor](#-instructor)
   - [🧑‍🏫 Teaching Assistant](#-teaching-assistant)

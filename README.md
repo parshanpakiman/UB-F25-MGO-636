@@ -8,7 +8,6 @@
 - [Supply Chain Analytics (MGO 636)](#supply-chain-analytics-mgo-636)
   - [📑 Table of Contents](#-table-of-contents)
   - [👨‍🏫 Instructor](#-instructor)
-  - [🧑‍🏫 Teaching Assistant](#-teaching-assistant)
   - [📌 Logistics](#-logistics)
   - [📘 Prerequisite or Co-requisite](#-prerequisite-or-co-requisite)
   - [📚 Textbook](#-textbook)
@@ -18,7 +17,8 @@
   - [⚠️ Course Materials Policy](#️-course-materials-policy)
   - [🌍 Diversity and Inclusion](#-diversity-and-inclusion)
   - [🏛️ Campus Resources](#️-campus-resources)
-  - [🧭 Course Objectives](#-course-objectives)
+  - [📝 Course Grading](#-course-grading)
+  - [🧭 Course Overview and Objectives](#-course-overview-and-objectives)
     - [Week 1: Intro to OM / Providing Goods \& Services](#week-1-intro-to-om--providing-goods--services)
     - [Week 2: Product Quality \& Development](#week-2-product-quality--development)
     - [Week 3: Forecasting](#week-3-forecasting)
@@ -35,6 +35,7 @@
     - [Week 14: Quality Control / Scheduling](#week-14-quality-control--scheduling)
     - [Week 15: Scheduling \& Final Review](#week-15-scheduling--final-review)
   - [📅 Course at a Glance (15 Weeks + Finals)](#-course-at-a-glance-15-weeks--finals)
+  - [📅 16-Week Course Schedule](#-16-week-course-schedule)
 
 ## 👨‍🏫 Instructor
 **Parshan Pakiman**  
@@ -49,19 +50,19 @@ University at Buffalo School of Management
   - 🏢 In-Person: At the office location  
   - 📅 By Appointment: Please email me to schedule
 
-## 🧑‍🏫 Teaching Assistant
-**Mingyuan Yuan**  
+<!-- ## 🧑‍🏫 Teaching Assistant
+**????? ???**  
 Doctoral Student, Operations Management and Strategy  
 - 📍 Office Location: 326H Jacobs Management Center  
 - 📧 Email: [To Be Announced]  
 - 🕒 Office Hours: *To Be Announced*  
   - 🔗 Virtual: [Zoom link](#)  
   - 🏢 In-Person: At the office location  
-  - 📅 By Appointment: Please email me to schedule
+  - 📅 By Appointment: Please email me to schedule -->
 
 ## 📌 Logistics
-- 🗓️ **Semester**: Fall 2025 [UB's Calendar](https://www.buffalo.edu/registrar/calendars/future-academic-calendars/2025-26-academic-calendar.html#:~:text=Non%2DStandard%20Session-,Fall%20Semester%202025,-15%2DWeek%20(Standard))
-- 🎯 **Level**: Undergraduate  
+- 🗓️ **Semester**: Fall 2025; [UB's Calendar](https://www.buffalo.edu/registrar/calendars/future-academic-calendars/2025-26-academic-calendar.html#:~:text=Non%2DStandard%20Session-,Fall%20Semester%202025,-15%2DWeek%20(Standard))
+- 🎯 **Level**: Graduate  
 - 📍 **Class Location**: *To Be Announced*  
 - 🕒 **Class Time**: *To Be Announced*  
 - 🏫 **Course Mode**: In-person
@@ -69,9 +70,11 @@ Doctoral Student, Operations Management and Strategy
 ## 📘 Prerequisite or Co-requisite
 - Introduction to Computers and Statistics (MGQ 201)
 
-## 📚 Textbook
-- The main textbook for this course: *Practical Operations Management by Natalie Simpson and Philip Hancock, 2nd. Edition. Hercher Publishing Inc., 2017.*
-- [Amazon](https://a.co/d/bS8TDj7) offers multiple editions and rental options, including a paperback version which can be cheaper. You are encouraged to choose the most affordable version that covers the required content.  
+## 📚 Textbook 
+   - The required textbook is: *Supply Chain Management: Strategy, Planning, and Operations* (7th Edition) by Sunil Chopra (ISBN: 978-0134731889)  
+   - Chapters from this book are assigned as background reading.
+   - The textbook also contains technical details that may go beyond in-class discussion.
+   - [Amazon](https://a.co/d/6pJPFnr) offers multiple editions and rental options, including a paperback version which can be cheaper. You are encouraged to choose the most affordable version that covers the required content.  
 - Additional textbooks, articles, cases, or readings may be assigned depending on the topic. These will be announced as needed throughout the course.
 
 ## 💻 Course Technology
@@ -80,17 +83,24 @@ Doctoral Student, Operations Management and Strategy
   - The primary platform for this course is [UB Learns](http://ublearns.buffalo.edu/), which will serve as the central hub for course content, announcements, and grading.  
   - Please familiarize yourself with UB Learns. You can explore its features and guides at [UB Learns Student Guide](https://www.buffalo.edu/lms/guides-students.html#title_0_copy:~:text=Quick%20Start%20Videos-,Available%20Guides,-Basics%20of%20UB)
 
+- **Google Colab**  
+  - Google Colab will be used for running analytics, simulations, and data modeling exercises during the course.  
+  - It allows you to write and execute code directly in your browser, with no software installation required.  
+  - You will need a Google account to access Colab. Please ensure you are logged in before using any shared notebooks.  
+  - Please activate your **Google Colab** account as soon as possible. Review the **Introductory Notebook** to familiarize yourself with Colab and practice running basic Python code. 
+
 - **Acadly** 
   - We will also use [Acadly](https://www.acadly.com/) for lecture-related engagement, such as pre-lecture activities, polls, and out-of-class discussions.  
   - 📌 You are **required to be set up on Acadly before the first class**.  
   - Please let us know if you encounter any issues during setup.  
 
-⚠️ It is essential that you have access to **UB Learns** and **Acadly** from the beginning of the semester. You are responsible for checking UB Learns regularly for updates. Log in and explore both platforms as soon as possible!
+⚠️ It is essential that you have access to **UB Learns**, **Google Colab**, and **Acadly** from the beginning of the semester. You are responsible for checking UB Learns regularly for updates. Log in and explore both platforms as soon as possible!
 
 ## 📂 Cases and Game
-- We might discuss case studies, which will be posted on UB Learns.  
-- Links and instructions will be shared before simulation-based activities.  
-- Participation in both case discussions and the simulation is required.
+ - Required and optional case materials can be purchased at Harvard Business Publishing. Cost: $4.95 (essential) + $10 (optional materials)  
+ - If you do not already have a Harvard Business Publishing account, please register for a free one.
+ - You will participate in the **eBeer Simulation** game during the semester. Access instructions and play guidelines will be provided in class.
+
 
 ## 🧾 Academic Integrity
 - Academic integrity is essential to your learning and to UB’s academic standards.  
@@ -117,14 +127,72 @@ Doctoral Student, Operations Management and Strategy
 - 🔐 **Sexual Violence Support**: Title IX (716-645-2266), Confidential Advocate (716-796-4399)  
 - 🧠 **Mental Health**: Counseling (716-645-2720), Health Services (716-829-3316), Health Promotion (716-645-2837)
 
+## 📝 Course Grading
 
-## 🧭 Course Objectives
 
-- Understand foundational principles of operations and supply chain management  
-- Apply analytical tools to improve business processes  
-- Evaluate trade-offs in operational decision-making  
-- Use case analysis to connect theory to practice  
-- Communicate operational insights effectively
+| Component                        | Due Date & Time           | Individual/Group | Deliverable                       | Weight (%) |
+|----------------------------------|---------------------------|------------------|-----------------------------------|------------|
+| Class Participation              | Ongoing                   | Individual       | Engagement in lectures/discussion | 5          |
+| Quiz 1                           | ??/??; In-class           | Individual       | Quiz                              | 20         |
+| Quiz 2                           | ??/??; In-class           | Individual       | Quiz                              | 20         |
+| Assignment 1: 7-Eleven Japan     | ??/??; before class       | Individual       | Case answers                      | 2.5        |
+| Assignment 2: Mintendo Game Girl | ??/??; before class       | Individual       | Case answers                      | 2.5        |
+| Assignment 3: ALKO Inc.          | ??/??; 5 PM               | Group            | Case report                       | 6          |
+| Assignment 4: Seasonal Inventory | ??/??; before class       | Group            | Solutions                         | 6          |
+| Assignment 5: Transportation     | ??/??; before class       | Group            | Solutions                         | 6          |
+| Assignment 6: Barilla SpA        | ??/??; 5 PM               | Group            | Case report                       | 6          |
+| Assignment 7: BioPharma Inc.     | ??/??; 5 PM               | Group            | Case report                       | 6          |
+| Class Project                    | ??/??; 5 PM               | Group            | Report                            | 15         |
+| Class Project Presentation       | ??/??; 5 PM               | Group            | Presentation                      | 5          |
+
+- **Class Participation (5%):** I expect all enrolled students to attend and participate in class. Your class participation grade is based upon your attendance and contribution to in-class discussion. I expect all students to have read the chapters and cases before class, to understand their group's answers to all questions, and to be prepared to discuss those responses. You are expected to be an active participant throughout the class and to contribute to the quality of the discussion. Please note that the quality, rather than the frequency, of your interventions in class is the key criterion for effective class contribution.
+
+- **Quizzes (40%)** 
+  - Each quiz consists of short conceptual multiple choice and true/false questions. They are designed to encourage review of all concepts covered in class.
+  - 📌 **Quiz 1** covers topics through Part III: Managing Inventory (up to 03/06)  
+  - 📌 **Quiz 2** covers Part IV: Transportation Networks through the final lecture (04/24)
+  - ⚠️ **Make-up quizzes** will only be granted for documented medical emergencies or unavoidable circumstances.
+
+
+- **Assignments & Cases (30%)**
+  - 7 assignments and 1 case
+  - Some are textbook-based, others are case analyses  
+  - Assignments may require spreadsheet tools like **Excel Solver**  
+  - Work in **groups of 3–4** (form groups by ??/??)  
+  - ❌ No credit for late submissions
+  - Cases are found in the textbook or purchased (e.g., 1 HBS case). I will upload all questions for non-case assignments.
+
+- **Group Project (20%):** For group and case assignments you will work in a group of 4-5 members. Groups will be self-selected and indicated on the submissions. You may not work alone on group assignments. You may only put your name on the group write-up if you contributed. Submit ONE document per group containing the assignments due as indicated on Canvas. We will ask you to evaluate the contributions of other group members at the end of the course (which will count toward your Class Participation score). I will allow groups to be formed across sections, but due to this allowance, all group assignments will be due
+before the earliest class session of the week, i.e., 8:30am on Tuesday.
+- **Project Report (15%):**  The case reports are graded for both content and presentation. A good report should clearly and succinctly state the recommendations up front and the remaining content should present clear supporting rationales for the recommendation in terms of the desirable and undesirable consequences of adopting it. Some common problems in preparing reports result from inadequate analysis. Analysis for a report is a time consuming and
+intellectually challenging task. Each case has a set of prompts which are a guide to help you with the analysis; however, you should not limit your analysis to narrowly answering these questions. The objective is to evaluate a complete range of alternatives and anticipate and discuss the full consequences of your
+recommendation. A good report is not a chronology of analysis, but a clearly articulated statement of recommendation and
+support. If there are options under consideration in the case that are rejected by you, a clear rationale for your
+decision should be provided. Facts stated in the case need not be restated unless used to make a point. I will
+assume that the most important issues are raised in the report and that all else is less important to the writer.
+Both desirable and undesirable consequences should be factually stated and supported. In the overall
+evaluation of the report the discussion of all consequences of the recommendation is of the greatest
+importance.
+  - The course will culminate with a final project that your group will conduct on a Supply Chain topic of your choosing. Assignment details and guidelines are included in this syllabus, and also with the assignment posting on Canvas. The due dates are Week 5 for initial project proposals, and Week 10 (exam week) for final project submissions.
+
+- **Presentation (5%)**
+  - Participation includes contributing in lectures, asking questions, sharing news, and being engaged. Points may be deducted for:
+  - Repeated absences or tardiness  
+  - Disruptive behavior  
+  - Lack of attentiveness (e.g., browsing the web during class)
+
+## 🧭 Course Overview and Objectives
+
+This course provides an analytical and managerial foundation for understanding and improving supply chain performance. A supply chain is a complex system involving multiple businesses—suppliers, manufacturers, distributors, logistics providers, and retailers—working together to deliver products and services to end consumers. The course examines how supply networks are designed, managed, and coordinated to align with strategic business objectives.
+
+Modern supply chains must adapt to globalization, digital transformation, and increasing customer expectations. We explore how advances in information technology and analytics have enabled greater efficiency and responsiveness, while also introducing new challenges related to coordination, data security, and reliability.
+
+The course is organized into three main modules:  
+- **Supply Chain Framework and Design:** We introduce key concepts and metrics that define supply chain performance, discuss drivers of supply chain structure, and explore how different network configurations are better suited to various environments, cost structures, and customer needs.
+- **Supply Chain Planning and Coordination:** We analyze the diverse incentives of stakeholders across the supply chain and the inefficiencies that may arise from misalignment. The course presents coordination mechanisms and strategies for creating mutually beneficial outcomes.
+- **Inventory Management and Risk Mitigation:** We study the role of inventory in buffering against supply and demand uncertainty, managing economies of scale, and improving responsiveness. Emphasis is placed on cost trade-offs and tactical levers that enhance profitability and efficiency.
+
+The course emphasizes both conceptual understanding and practical skills. Students will apply prescriptive analytics and modeling techniques to real-world supply chain problems using tools such as Excel Solver. Case studies, simulations, and group projects are used to build critical thinking, collaboration, and communication skills.
 
 ### Week 1: Intro to OM / Providing Goods & Services
 - **Key Concepts**: [To be added]  
@@ -252,6 +320,29 @@ Doctoral Student, Operations Management and Strategy
 
 ## 📅 Course at a Glance (15 Weeks + Finals)
 
+
+
+| Week    | Dates         | Topic                                                           | Reading              | Course Events                                                | UB Events                                      |
+|---------|---------------|------------------------------------------------------------------|----------------------|--------------------------------------------------------------|------------------------------------------------|
+| Week 1  | Aug 25 – Aug 31 | Course Overview, Supply Chain Strategy & Performance Drivers    | SCM Chapters 1–3     | Assignment 1: Seven-Eleven Japan (Due 02/04)                 | ✅ First day of classes (Jan 23)               |
+| Week 2  | Sept 1 – Sept 7 | Linear Programming & Monte Carlo Simulation; Aggregate Planning | SCM Chapters 8–9     |                                                              | ❌ No UB events                                |
+| Week 3  | Sept 8 – Sept 14 | Aggregate Planning and S&OP                                     | SCM Chapters 8–9     | Assignment 2: Mintendo Game Girl (Due 02/13)                 | ✅ Last day to drop/add (Jan 30)               |
+| Week 4  | Sept 15 – Sept 21 | Cycle Inventory                                                 | SCM Chapter 11       |                                                              | Regular instruction                            |
+| Week 5  | Sept 22 – Sept 28 | Safety Inventory                                                | SCM Chapter 12       |                                                              | Regular instruction                            |
+| Week 6  | Sept 29 – Oct 5 | Seasonal Inventory                                              | SCM Chapter 13       | Assignment 3: ALKO Inc. (Due 02/24); Discussion 02/25        | Regular instruction                            |
+| Week 7  | Oct 6 – Oct 12 | Seasonal Inventory (cont.)                                      | SCM Chapter 13       | Assignment 4 due before class 03/11                          | Regular instruction                            |
+| Week 8  | Oct 13 – Oct 19 | Transportation Networks; Last Mile Delivery                     | SCM Chapter 14       | Quiz 1 on 03/13                                              | Regular instruction                            |
+| Week 9  | Oct 20 – Oct 26 | Spring Break                                                    |                      | No Class                                                     | ❌ Spring Break (Mar 18–20)                    |
+| Week 10 | Oct 27 – Nov 2 | Transportation Networks (cont.); eBeer Game                     | SCM Chapter 10       | Assignment 5 due before class 03/25                          | ✅ Classes resume (Mar 25)                     |
+| Week 11 | Nov 3 – Nov 9 | Bullwhip Effect                                                 | SCM Chapters 10 & 15 | Assignment 6: Barilla SpA Case (Due 04/02); Discussion 04/03 | Regular instruction                            |
+| Week 12 | Nov 10 – Nov 16 | Information & Contracting                                       | SCM Chapters 10 & 15 |                                                              | Regular instruction                            |
+| Week 13 | Nov 17 – Nov 23 | Flexible Capacity and Operational Hedges                        | SCM Chapters 4–6     | Assignment 7: BioPharma Inc. (Due 04/21); Discussion 04/22   | Regular instruction                            |
+| Week 14 | Nov 24 – Nov 30  | Digital Supply Chains, Blockchain, Additive Manufacturing       | [Extra Readings]     |                                                              | Regular instruction                            |
+| Week 15 | Dec 1 – Dec 7 | Quiz 2; Final Project Reports Due 04/30                         |                      | Quiz 2 on 04/29; Project Report Due 04/30                    | ✅ Last week of classes                        |
+| Week 16 | Dec 8 – Dec 17 | Final Project Presentations                                     |                      | Presentation Days: 05/01 & 05/06                             | 🎓 Reading Day (May 7), Final Exams (May 8–15) |
+
+
+## 📅 16-Week Course Schedule
 | Week   | Approx. Date      | Topic               | Required Reading      | Course Events  | UB Events                                                    |
 |--------|-------------------|---------------------|-----------------------|----------------|--------------------------------------------------------------|
 | 1      | Aug 25 – Aug 31   | [Topic Placeholder] | [Reading Placeholder] |                | ✅ First day of classes (Aug 25)                             |

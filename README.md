@@ -32,19 +32,18 @@
 Assistant Professor of Operations Management  
 Department of Operations Management and Strategy  
 University at Buffalo School of Management  
-- 📍 Office Location: 342 Jacobs Management Center ([UB map](https://www.buffalo.edu/home/visiting-ub/map.html#JACOBS))
+- 📍 Office Location: 343 Jacobs Management Center ([UB map](https://www.buffalo.edu/home/visiting-ub/map.html#JACOBS))
 - 📧 Email: [ParshanP@Buffalo.edu](mailto:parshanp@buffalo.edu)  
 - 🌐 Web: [ParshanPakiman.Github.io](https://parshanpakiman.github.io/)  
 - 🕒 Office Hours: Fridays, 3:00 PM – 4:00 PM, or by appointment  
   - 🔗 Virtual: [https://buffalo.zoom.us/my/pakiman.office.hours](https://buffalo.zoom.us/my/pakiman.office.hours)  
-  - 🏢 In-Person: 342 Jacobs Management Center
+  - 🏢 In-Person: 343 Jacobs Management Center
 
 ## 🧑‍🏫 Student Assistant 
 **Mingyuan Yuan**  
 Doctoral Student, Operations Management and Strategy  
 - 📍 Office Location: 326H Jacobs Management Center ([UB map](https://www.buffalo.edu/home/visiting-ub/map.html#JACOBS))
 - 📧 Email: [myuan2@buffalo.edu](mailto:myuan2@buffalo.edu)
-- 🕒 Office Hours: By appointment
 - ⚠️ Please cc me in any email exchanges with Mingyuan.
 
 ## 📌 Logistics
@@ -159,7 +158,7 @@ Generative AI tools (e.g., ChatGPT, Claude, Gemini) can support your learning, b
   - Students should form groups of **4–5 members**. You may not work alone.  
   - One group member will submit a single write-up in **PDF format** via **UBLearns**.  
 - All submissions must clearly list the **full name** and **UB email** of **every group member** or **individual submitter** at the top of the PDF file.  
-- All assignments are due by **11:00 PM** on the due date, which will be posted on UBLearns, in **PDF format**.  
+- All assignments are due by **6:00 PM** on the due date, which will be posted on UBLearns, in **PDF format**.  
 - ❌ **No credit** will be given for late submissions.  
 
 3. **Midterm 1 (15%)**  
@@ -176,7 +175,7 @@ Generative AI tools (e.g., ChatGPT, Claude, Gemini) can support your learning, b
 5. **Final Project (30%)**  
 - Every **4–5 students** will work together on a final project in the form of either a Case Study or a White Paper.  
 - **Final Project Presentation (10%):** In our final session on **Monday, December 8, 2025**, each group will present their project to the class.  
-- **Final Project Report (20%):** Each group should submit a written report on our course exam date of **Friday, December 12, 2025**, by **11:00 PM** via **UBLearns**. No extensions will be granted due to grading-time constraints.
+- **Final Project Report (20%):** Each group should submit a written report on our course exam date of **Friday, December 12, 2025**, by **6:00 PM** via **UBLearns**. No extensions will be granted due to grading-time constraints.
 
 > Please see [Appendix: Guidelines for Final Project](#appendix-guidelines-for-final-project) for details.
 
@@ -202,7 +201,7 @@ Generative AI tools (e.g., ChatGPT, Claude, Gemini) can support your learning, b
 | 14   | Nov 24       | The Bullwhip Effect (cont.)                                | Chapter 15                                            | <span style="background-color:#D5F5E3">Group Assignment 4: Barilla SpA Case (HBS Case Pack)</span> |       |
 | 15   | Dec 1        | Pricing and Revenue Management                            | Chapter 16                                            | —                                                                             |       |
 | 16   | Dec 8        | Final Project Presentations                               | —                                                     | <span style="background-color:#FFDDC1">Presentations (~10 min per group, Q&A included)</span> |       |
-| —    | Dec 12       | Final Project Report Due                                  | —                                                     | <span style="background-color:#FFDDC1">Submit on UBLearns by 10:00 PM (PDF format; max 10 pages + appendix)</span> | No extensions |
+| —    | Dec 12       | Final Project Report Due                                  | —                                                     | <span style="background-color:#FFDDC1">Submit on UBLearns by 6:00 PM (PDF format; max 10 pages + appendix)</span> | No extensions |
 
 
 

@@ -39,12 +39,6 @@ University at Buffalo School of Management
   - 🔗 Virtual: [https://buffalo.zoom.us/my/pakiman.office.hours](https://buffalo.zoom.us/my/pakiman.office.hours)  
   - 🏢 In-Person: 343 Jacobs Management Center
 
-## 🧑‍🏫 Student Assistant 
-**Mingyuan Yuan**  
-Doctoral Student, Operations Management and Strategy  
-- 📍 Office Location: 326H Jacobs Management Center ([UB map](https://www.buffalo.edu/home/visiting-ub/map.html#JACOBS))
-- 📧 Email: [myuan2@buffalo.edu](mailto:myuan2@buffalo.edu)
-- ⚠️ Please cc me in any email exchanges with Mingyuan.
 
 ## 📌 Logistics
 - 🗓️ **Semester**: Fall 2025 ([UB calendar](https://www.buffalo.edu/registrar/calendars/current-academic-calendar.html))

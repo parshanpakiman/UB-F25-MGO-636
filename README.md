@@ -59,7 +59,7 @@ The course emphasizes both conceptual understanding and practical skills. Studen
 ## 📚 Textbook 
 
 - The required textbook is: *Supply Chain Management: Strategy, Planning, and Operations* (7th Edition) by Sunil Chopra (ISBN: 978-0134731889)  
-- [Amazon](https://a.co/d/6pJPFnr) offers multiple editions and rental options, including a paperback version which can be cheaper. You are encouraged to choose the most affordable version that covers the required content. 
+- [Amazon](https://a.co/d/duJPt5g) offers multiple editions and rental options, including a paperback version which can be cheaper. You are encouraged to choose the most affordable version that covers the required content. 
 - Required and optional case materials can be purchased at Harvard Business Publishing. Cost: $4.95 (essential) + $10 (optional materials)  
 - If you do not already have a Harvard Business Publishing account, please register for a free one.
 - You will participate in the **eBeer Simulation** game during the semester. Access instructions and play guidelines will be provided in class.

@@ -177,9 +177,30 @@ Generative AI tools (e.g., ChatGPT, Claude, Gemini) can support your learning, b
 
 ---
 
-## 📅 Course Calendar
+## 📅 Tentative Course Calendar
 
 | Week | Date         | Topic                                                     | Reading Assignment                                    | Deliverables                                                                 | Notes |
+|------|--------------|-----------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------------------------------|-------|
+| 1    | Aug 25       | Understanding Supply Chains                               | Syllabus; Chapters 1 & 2                              | —                                                                             |       |
+| 2    | Sep 1        | Labor Day                                       | 7-11 Japan case (end of Chapter 3)                    | <span style="background-color:#FFDDC1">Final project team formation – submit member names</span> |   No class meeting    |
+| 3    | Sep 8        | Supply Chain Drivers and Networks                         | Chapters 3 & 4                                        | <span style="background-color:#C1E1FF">Individual Homework 1: Blockbuster Case (end of Chapter 2)</span> |       |
+| 4    | Sep 15       | Network Design in the Supply Chain                        | Chapters 5 & 6                                        | <span style="background-color:#C1E1FF">Individual Homework 2: Blue Nile Case (end of Chapter 4)</span>; <span style="background-color:#FFDDC1">Finalize your final project topic</span> |       |
+| 5    | Sep 22       | Supply Chain Forecasting          | Chapters 7                                       | <span style="background-color:#C1E1FF">Individual Homework 3: Coolwipes Case (end of Chapter 5)</span> |       |
+| 6    | Sep 29       | **Midterm 1** + Linear Programming                        | Chapter 9                                             | <span style="background-color:#FFD6D6">**Midterm 1**</span> | Midterm 1 covering Chapters 1–6, administered in first part of class |
+| 7    | Oct 6        | Inventory Control: Cycle Inventory                        | Chapter 11                                            | <span style="background-color:#D5F5E3">Group Assignment 1: BioPharma Case (end of Chapter 6)</span> |       |
+| 8    | Oct 13       | Fall Break                                                | —                                                     | <span style="background-color:#FFDDC1">Final project proposal due on UBLearns</span> | No class meeting |
+| 9    | Oct 20       | Inventory Control: Safety Inventory                       | Chapter 12                                            | <span style="background-color:#D5F5E3">Group Assignment 2: Mintendo Game Girl (end of Chapter 9)</span> |       |
+| 10   | Oct 27       | Inventory Control: Seasonal Inventory                     | Chapter 13                                            | <span style="background-color:#C1E1FF">Individual Homework 4: Bakery Production (UBLearns)</span> |       |
+| 11   | Nov 3        | Transportation Networks and Last Mile Delivery            | Chapter 14                                            | <span style="background-color:#D5F5E3">Group Assignment 3: ALKO Case (end of Chapter 12)</span> |       |
+| 12   | Nov 10       | Supply Chain Information                                  | Chapter 10 + eBeer Game                               | —                                                                             | In-class eBeer Game |
+| 13   | Nov 17       | **Midterm 2** + The Bullwhip Effect                        | Chapter 15                                            | <span style="background-color:#FFD6D6">**Midterm 2**</span> | Midterm 2 covering Chapters 9, 11, 12, 13, administered in first part of class |
+| 14   | Nov 24       | The Bullwhip Effect (cont.)                                | Chapter 15                                            | <span style="background-color:#D5F5E3">Group Assignment 4: Barilla SpA Case (HBS Case Pack)</span> |       |
+| 15   | Dec 1        | Pricing and Revenue Management                            | Chapter 16                                            | —                                                                             |       |
+| 16   | Dec 8        | Final Project Presentations                               | —                                                     | <span style="background-color:#FFDDC1">Presentations (~10 min per group, Q&A included)</span> |       |
+| —    | Dec 12       | Final Project Report Due                                  | —                                                     | <span style="background-color:#FFDDC1">Submit on UBLearns by 6:00 PM (PDF format; max 10 pages + appendix)</span> | No extensions |
+
+
+<!-- | Week | Date         | Topic                                                     | Reading Assignment                                    | Deliverables                                                                 | Notes |
 |------|--------------|-----------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------------------------------|-------|
 | 1    | Aug 25       | Understanding Supply Chains                               | Syllabus; Chapters 1 & 2                              | —                                                                             |       |
 | 2    | Sep 1        | Labor Day                                       | 7-11 Japan case (end of Chapter 3)                    | <span style="background-color:#FFDDC1">Final project team formation – submit member names</span> |   No class meeting    |
@@ -197,7 +218,7 @@ Generative AI tools (e.g., ChatGPT, Claude, Gemini) can support your learning, b
 | 14   | Nov 24       | The Bullwhip Effect (cont.)                                | Chapter 15                                            | <span style="background-color:#D5F5E3">Group Assignment 4: Barilla SpA Case (HBS Case Pack)</span> |       |
 | 15   | Dec 1        | Pricing and Revenue Management                            | Chapter 16                                            | —                                                                             |       |
 | 16   | Dec 8        | Final Project Presentations                               | —                                                     | <span style="background-color:#FFDDC1">Presentations (~10 min per group, Q&A included)</span> |       |
-| —    | Dec 12       | Final Project Report Due                                  | —                                                     | <span style="background-color:#FFDDC1">Submit on UBLearns by 6:00 PM (PDF format; max 10 pages + appendix)</span> | No extensions |
+| —    | Dec 12       | Final Project Report Due                                  | —                                                     | <span style="background-color:#FFDDC1">Submit on UBLearns by 6:00 PM (PDF format; max 10 pages + appendix)</span> | No extensions | -->
 
 
 

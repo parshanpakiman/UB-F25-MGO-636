@@ -106,12 +106,13 @@ Generative AI tools (e.g., ChatGPT, Claude, Gemini) can support your learning, b
 
 ### 📢 Student Responsibilities
 1. Ensure you have access to **UBLearns** and **Zoom** from the very beginning of the semester. Log in and familiarize yourself with both platforms as soon as possible.  
-2. Install Excel and [Excel Solver](https://support.microsoft.com/en-us/office/load-the-solver-add-in-in-excel-612926fc-d53b-46b4-872c-e24772f078ca) on your machine. 
-3. Check **UBLearns** and your **UB email** regularly for course updates and announcements.  
-4. Stay current with class lectures — this is key to earning a good grade.   
-5. All material covered in lectures is also included in your assigned readings. Your textbook remains your most reliable reference and should always be accessible.  
-6. 🚫 Eating or drinking is not permitted during class sessions.  
-7. 📧 All email communications must include **"MGO-636"** in the subject line to ensure a timely response.
+2. Please make sure that you are subscribed to [UB Alert Notifications](https://emergency.buffalo.edu/sign_up.html).
+3. Install Excel and [Excel Solver](https://support.microsoft.com/en-us/office/load-the-solver-add-in-in-excel-612926fc-d53b-46b4-872c-e24772f078ca) on your machine. 
+4. Check **UBLearns** and your **UB email** regularly for course updates and announcements.  
+5. Stay current with class lectures — this is key to earning a good grade.   
+6. All material covered in lectures is also included in your assigned readings. Your textbook remains your most reliable reference and should always be accessible.  
+7. 🚫 Eating or drinking is not permitted during class sessions.  
+8. 📧 All email communications must include **"MGO-636"** in the subject line to ensure a timely response.
 
 ## 🧾 Academic Integrity
 - Academic integrity is essential to your learning and to UB’s academic standards.  

@@ -178,7 +178,7 @@ Generative AI tools (e.g., ChatGPT, Claude, Gemini) can support your learning, b
 
 ---
 
-## 📅 Tentative Course Calendar
+## 📅 Course Calendar
 
 <!-- | Week | Date         | Topic                                                     | Reading Assignment                                    | Deliverables                                                                 | Notes |
 |------|--------------|-----------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------------------------------|-------|
@@ -217,10 +217,14 @@ Generative AI tools (e.g., ChatGPT, Claude, Gemini) can support your learning, b
 | 13   | Nov 17       | **Midterm 2** + The Bullwhip Effect                        | Chapter 15                                            | <span style="background-color:#FFD6D6">**Midterm 2**</span> | Midterm 2 covering Chapters 9, 11, 12, 13, administered in first part of class |
 | 14   | Nov 24       | The Bullwhip Effect (cont.)                                | Chapter 15                                            | <span style="background-color:#D5F5E3">Group Assignment 4: Barilla SpA Case (HBS Case Pack)</span> |       |
 | 15   | Dec 1        | Pricing and Revenue Management                            | Chapter 16                                            | —                                                                             |       |
-| 16   | Dec 8        | Final Project Presentations                               | —                                                     | <span style="background-color:#FFDDC1">Presentations (~10 min per group, Q&A included)</span> |       |
+| 16   | Dec 8        | Final Project Presentations                               | —                                                     | <span style="background-color:#FFDDC1">Presentations (~18 min per group, followed by a 5-minute Q&A session)</span> |       |
 | —    | Dec 12       | Final Project Report Due                                  | —                                                     | <span style="background-color:#FFDDC1">Submit on UBLearns by 6:00 PM (PDF format; max 10 pages + appendix)</span> | No extensions |
 
-
+### Important Dates for the Final Project:
+- **Pre-final Report (Tuesday, December 2, 11:59 PM):** This report should be close to the final report in terms of results and insights and will be the basis for your slides. It doesn’t need to be fully polished, but it should include most analyses and key takeaways. I’ll provide feedback on the pre-final report and presentation for you to incorporate into the final report.
+- **Final Project Presentation (Monday, December 8, 6:00 PM):** Please submit your slides in PDF format to UBLearn by 6:00 PM before class. Each team will present its results and findings for 18 minutes, followed by a 5-minute Q&A session.
+All group members are required to present their results, as this is part of your final grade. All group members are required to answer the questions I will ask during the Q&A session. Other teams are encouraged to participate in the Q&A session of the presenting team.
+- **Final Report (Friday, December 12, 6:00 PM):** This is your final project report, which should be comprehensive, incorporating all the feedback I provided, including the feedback on your pre-final report as well as presentation. The document must follow the structure outlined in the syllabus.
 
 
 ## Appendix: Guidelines for Final Project

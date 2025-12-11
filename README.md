@@ -4,8 +4,6 @@
 
 # Supply Chain Analytics (MGO 636)
 
-![Image](image.png)
-
 ## 📑 Table of Contents
 - [Supply Chain Analytics (MGO 636)](#supply-chain-analytics-mgo-636)
   - [📑 Table of Contents](#-table-of-contents)
@@ -268,5 +266,11 @@ The final project is a **group assignment** that can take one of two formats:
 
 ---
 **Note:** The instructor gratefully acknowledges the guidance and resources provided by faculty across UB, UChicago, and UIC in preparing this course.
+---
+
+<br>
+<br>
+<p align="center"><span style="font-size: 28px;">Class Photo - Final Project Presentation Class - Dec 08, 2025</span></p>
+<p align="center"><img src="IMG_0932.jpg" alt="University at Buffalo Logo" width="1000"/></p>
 
 <div align="center"><hr style="width:100%; border: 2px solid #005bbb; background-color: #005bbb"></div>

@@ -3,7 +3,7 @@
 <div align="center"><hr style="width:100%; border: 2px solid #005bbb; background-color: #005bbb"></div>
 
 # Supply Chain Analytics (MGO 636)
-
+![Your Image Description](IMG_0932.png)
 ## 📑 Table of Contents
 - [Supply Chain Analytics (MGO 636)](#supply-chain-analytics-mgo-636)
   - [📑 Table of Contents](#-table-of-contents)
